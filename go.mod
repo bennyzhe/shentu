@@ -1,6 +1,6 @@
 module github.com/shentufoundation/shentu/v2
 
-go 1.18
+go 1.21.0
 
 require (
 	github.com/cosmos/cosmos-sdk v0.45.9
@@ -17,7 +17,7 @@ require (
 	github.com/rakyll/statik v0.1.7
 	github.com/regen-network/cosmos-proto v0.3.1
 	github.com/rs/zerolog v1.28.0
-	github.com/spf13/cast v1.5.0
+	github.com/spf13/cast v1.10.0
 	github.com/spf13/cobra v1.5.0
 	github.com/spf13/viper v1.13.0
 	github.com/stretchr/testify v1.8.0
